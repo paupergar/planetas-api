@@ -36,7 +36,8 @@ test("🧪 Test estricto /planetas", async () => {
     { nombre: "Mercurio", orden: 1, tipo: "Rocoso" },
     { nombre: "Venus", orden: 2, tipo: "Rocoso" },
     { nombre: "Tierra", orden: 3, tipo: "Rocoso" },
-    { nombre: "Marte" , orden: 4, tipo: "Rocoso" }
+    { nombre: "Marte" , orden: 4, tipo: "Rocoso" },
+    { nombre: "Jupiter", orden: 5, tipo: "Gaseoso" }
   ];
 
   const res = await getJSON("/planetas");
