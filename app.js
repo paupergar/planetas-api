@@ -6,7 +6,7 @@ const planetas = [
   { id: 1, nombre: 'Mercurio', orden: 1, tipo: 'Rocoso' },
   { id: 2, nombre: 'Venus', orden: 2, tipo: 'Rocoso' },
   { id: 3, nombre: 'Tierra', orden: 3, tipo: 'Rocoso' },
-  { id: 4, nombre: 'Marte', orden: 4, tipo: 'Rocoso' },
+  { id: 4, nombre: 'Martee', orden: 4, tipo: 'Rocoso' },
   { id: 5, nombre: 'Jupiterr', orden: 5, tipo: 'Gaseoso' }
 ];
 
